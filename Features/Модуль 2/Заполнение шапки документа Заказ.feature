@@ -1,7 +1,7 @@
 ﻿#language: ru
 
 @ExportScenarios
-
+@IgnoreOnCIMainBuild
 @tree
 
 Функционал: Заполнение шапки документа Заказ
